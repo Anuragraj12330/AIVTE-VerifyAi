@@ -1,0 +1,48 @@
+{
+  "users": {
+    "officer@aicte-india.org": {
+      "id": "usr-officer-01",
+      "name": "Dr. Sunita Mehra",
+      "email": "officer@aicte-india.org",
+      "salt": "77dc3a9c9ac6cc453acd70d102c5e278",
+      "passwordHash": "f66150cab3b888eaf988632c4d504ca759edeb69307d8ede6bf8d4be3a402064245c7d68ac3a5f5cc0f94bd4aa663246f375815197d7a7c518ec06fde54b98b2",
+      "role": "Regulatory Director",
+      "designation": "Senior Regulatory Compliance Director",
+      "institution": "AICTE Directorate of Institutional Approvals",
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150&auto=format&fit=crop&q=80",
+      "createdAt": "2026-10-28T10:45:28.148Z"
+    },
+    "reviewer@apex-edu.in": {
+      "id": "usr-auditor-02",
+      "name": "Prof. Arvind Swaminathan",
+      "email": "reviewer@apex-edu.in",
+      "salt": "9439167f77b4cb0f7fba675510fe691b",
+      "passwordHash": "e65ab54da9be0e0d6d8e240f0fe80352cece8594e63fbdc8a6d7bb444b8ee1a94b841ec4bed5afc8b38aa0a30b29fad0a0d0db6eabdccb4aa76ea67a3771760d",
+      "role": "Senior Auditor",
+      "designation": "Lead Scrutiny Auditor",
+      "institution": "Apex Institute of Technology & Sciences",
+      "avatar": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=150&auto=format&fit=crop&q=80",
+      "createdAt": "2026-10-28T10:45:28.148Z"
+    },
+    "audit.lead.1793184425504@apex-edu.in": {
+      "id": "usr-1793184425583-20d7d8",
+      "name": "Dr. Vikram Malhotra",
+      "email": "audit.lead.1793184425504@apex-edu.in",
+      "salt": "c41671bc956717c1d03152a687ea8839",
+      "passwordHash": "4f26b0ee7c85eeadcbd89be33ee87aaca4c097e4e092673bf444419e2da3f937044d86612b0fe85af1dcce9305672e575d439fb9d50ba89abdaab1db41d86a61",
+      "role": "Senior Auditor",
+      "designation": "Regulatory Scrutiny Auditor",
+      "institution": "AICTE Regulatory Council",
+      "createdAt": "2026-10-28T10:47:05.583Z"
+    }
+  },
+  "sessions": {
+    "91365e1618d04adf1fab2ecc41f42bbd09e6223d10f57fbbe6130c2e3ac8e6a0": {
+      "token": "91365e1618d04adf1fab2ecc41f42bbd09e6223d10f57fbbe6130c2e3ac8e6a0",
+      "userId": "usr-officer-01",
+      "createdAt": "2026-10-28T10:47:05.480Z",
+      "expiresAt": "2026-11-04T10:47:05.479Z"
+    }
+  },
+  "resetTokens": {}
+}
